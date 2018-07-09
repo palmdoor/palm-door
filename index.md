@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Palm Door
 
-You can use the [editor on GitHub](https://github.com/palmdoor/palm-door/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Palm Door Ltd is an IT consultancy run by [Zac Palmer Laporte](https://www.linkedin.com/in/zachary-palmer-laporte-031725158/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you've heard of us and want to get in touch, please do. E-mail is best - we'll get back to you soon: zac@palmdoor.co.uk
 
-### Markdown
+### Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Palm Door specialises in giving friendly no-nonsense advice about bleeding edge tech platforms to companies or individuals.
 
-```markdown
-Syntax highlighted code block
+If you're starting a new project and you want to hear about the substance behind the buzzwords you should get in touch.
 
-# Header 1
-## Header 2
-### Header 3
+If you're an established business thinking about an overhaul, an upgrade, or designing a new product, drop us a line.
 
-- Bulleted
-- List
+Odds are we won't be able to solve all your problems: but we're game to help you nail down the right _questions_ at least.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/palmdoor/palm-door/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
